@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3730a3,100:06b6d4&height=220&section=header&text=Apoorv%20Gupta&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20make%20sense.%20Mostly.&descAlignY=59&descSize=17&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Backend+Engineering+%E2%9A%99%EF%B8%8F+AI%2FML;Systems+%7C+Automation+%7C+Developer+Tools;Learning+in+public.+Building+with+purpose.;git+commit+-m+%22looks+good+to+me%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Backend+Engineering+%E2%9A%99%EF%B8%8F+AI%2FML;Systems+%7C+Automation+%7C+Developer+Tools;git+commit+-m+%22looks+good+to+me%22)](https://git.io/typing-svg)
 
 
 </div>
@@ -12,18 +12,24 @@
 ### `> whoami`
 
 ```yaml
-name: Apoorv
+name: Apoorv Gupta
 handle: apoorv-lgtm
+role: Software Engineer/Data Scientist
 focus:
   - Backend engineering & scalable systems
-  - AI / machine learning & intelligent agents
-  - Automation & developer tooling
-currently_exploring:
-  - System design
-  - LLM applications
-  - Data structures & algorithms
-motto: "Understand it. Build it. Improve it."
+  - AI/ML integration & intelligent automation
+  - Performance Optimization
+  - Developer tooling
+engineering_interests:
+  - API architecture & system design
+  - AI agents & LLM applications
+  - Building reliable, maintainable software
+philosophy: "Build it, either way."
 ```
+
+I work at the intersection of **backend engineering, AI, and developer tooling**, building solutions that simplify complex workflows and improve engineering efficiency.
+
+I'm particularly interested in designing reliable systems, integrating intelligent capabilities into real-world applications, and understanding the engineering decisions behind scalable software.
 
 I enjoy getting to the bottom of how things work, whether that's an ML pipeline, an API, a Git merge, or a tool that saves someone a hundred repetitive clicks.
 
@@ -54,14 +60,11 @@ I enjoy getting to the bottom of how things work, whether that's an ML pipeline,
 
 </div>
 
-### `> ls interests/`
+### `> ls engineering/`
 
 | 🧠 AI & ML | ⚙️ Backend & Systems | 🛠️ Developer Tools |
 |:---|:---|:---|
 | Anomaly detection, agents, model pipelines | APIs, performance, distributed systems | Automation, CLI tools, Git workflows |
-
-> [!NOTE]
-> New account, new commits, new experiments. The interesting projects are still being built.
 
 ### `> cat philosophy.txt`
 
@@ -71,7 +74,7 @@ I enjoy getting to the bottom of how things work, whether that's an ML pipeline,
 
 ```text
 $ git status
-On branch constantly-learning
+On branch engineering
 Your branch is up to date with 'curiosity'.
 
 $ git commit -m "LGTM. Ship it."
