@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Backend+Engineering+%E2%9A%99%EF%B8%8F+AI%2FML;Systems+%7C+Automation+%7C+Developer+Tools;Learning+in+public.+Building+with+purpose.;git+commit+-m+%22looks+good+to+me%22)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=apoorv-lgtm&style=flat-square&color=06b6d4&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/apoorv-lgtm?style=flat-square&logo=github&label=FOLLOWERS&color=6366f1)
 
 </div>
 
@@ -61,17 +59,6 @@ I enjoy getting to the bottom of how things work, whether that's an ML pipeline,
 | 🧠 AI & ML | ⚙️ Backend & Systems | 🛠️ Developer Tools |
 |:---|:---|:---|
 | Anomaly detection, agents, model pipelines | APIs, performance, distributed systems | Automation, CLI tools, Git workflows |
-
-### `> git stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=apoorv-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Apoorv's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most-used languages in public repositories" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorv-lgtm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=6366F1&point=FFFFFF" alt="GitHub contribution activity graph" width="95%" />
-
-</div>
 
 > [!NOTE]
 > New account, new commits, new experiments. The interesting projects are still being built.
